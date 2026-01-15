@@ -32,8 +32,8 @@ A production-ready weather web application built using **Flask**, following a cl
 
 #### __1. Clone the repository__
 
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/PYatiM/weather.git
+cd weather
 
 #### __2. Create virtual environment__
 
